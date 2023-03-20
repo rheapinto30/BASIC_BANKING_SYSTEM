@@ -1,0 +1,30 @@
+.bg-1{
+    background-color:#12649C ;
+}
+
+.bg-2{
+    background-color: #01c7fef2;
+}
+
+.btn1,
+.btn1:hover {
+    color: #0B213A;
+    background-color: lightskyblue;
+    font-weight: bold;
+}
+
+.card-header {
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+}
+
+.table-head {
+    background-color: #0B213A;
+    color: #E9F8F9
+}
+
+td {
+    font-family: 'Roboto Serif', serif;
+    vertical-align: middle;
+    font-size: 16px;
+}

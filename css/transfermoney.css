@@ -1,0 +1,45 @@
+.card-header {
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+    background-color: #ffff;
+}
+
+.card-body {
+    height: 300px;
+}
+
+.bg-1{
+    background-color:#12649C ;
+}
+
+.bg-2{
+    background-color: #01c7fef2;
+}
+
+hr {
+    margin: 10px 0;
+    color: inherit;
+    border: 0;
+    border-top: var(--bs-border-width) solid;
+    opacity: .25;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.card-title {
+    font-family: 'Merriweather', serif;
+}
+
+.card-content {
+    font-family: 'Roboto Serif', serif;
+}
+
+.form-btn,
+.form-btn:hover {
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+label {
+    font-weight: bold;
+}

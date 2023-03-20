@@ -1,0 +1,42 @@
+#section1 {
+    background-color: #12649C;
+    padding:40px 0px 30px;
+}
+
+#section2 {
+    background-color:  #01c7fef2;
+    padding: 15px 15px 22px;
+    font-family: 'Merriweather', serif;
+}
+.maintext {
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+    color: #ffff;
+}
+
+.subtext {
+    font-family: 'Cookie', serif;
+    font-size: 30px;
+    color: #ffff;
+}
+
+.btn,
+.btn:hover {
+    color: #0B213A;
+    background-color: lightskyblue;
+    font-weight: bold;
+    font-size: 16px;
+}
+.card{
+    font-family: 'Merriweather', serif;
+}
+.services-img1
+{
+    width:225px; 
+    height:200px;
+}
+.services-img2
+{
+    width:225px; 
+    height:200px;
+}

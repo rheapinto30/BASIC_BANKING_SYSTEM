@@ -1,0 +1,11 @@
+.footer {
+    width: 100%;
+    background-color: #0b213a;
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+    color: #e9f8f9;
+}
+.content
+{
+    padding: 10px 0px;
+}
